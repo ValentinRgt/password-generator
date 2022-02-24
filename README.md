@@ -12,4 +12,3 @@ EN :
 
 [Password Generator in JS](https://github.com/ValentinRgt/password-generator/tree/gen-pass-js)<br>
 [Password Generator in PHP](https://github.com/ValentinRgt/password-generator/tree/gen-pass-php)<br>
-[Password Generator in Python](https://github.com/ValentinRgt/password-generator/tree/gen-pass-python)<br>
